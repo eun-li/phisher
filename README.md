@@ -6,10 +6,6 @@
 
 ### Prerequisites
 
-List anything the user needs before installing:
-
-[Ubuntu]
-
 ### Ubuntu Installation
 
 **Step 1 — Open PowerShell as Administrator**
