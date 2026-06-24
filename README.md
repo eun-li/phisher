@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Zphisher
 
@@ -8,7 +8,7 @@
 
 List anything the user needs before installing:
 
-- [Ubuntu]
+[Ubuntu]
 
 ### Ubuntu Installation
 
